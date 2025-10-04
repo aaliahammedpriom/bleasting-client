@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "weightStart": 157,
+      "weightLost": 29,
+      "name": "Cam",
+      "age": 25,
+      "location": "Melbourne, AUS",
+      "reviewSource": "TripAdvisor"
+    },
+    {
+      "id": 2,
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "weightStart": 92,
+      "weightLost": 15,
+      "name": "Sophia",
+      "age": 29,
+      "location": "Sydney, AUS",
+      "reviewSource": "Google Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://randomuser.me/api/portraits/men/77.jpg",
+      "weightStart": 110,
+      "weightLost": 20,
+      "name": "Liam",
+      "age": 31,
+      "location": "Auckland, NZ",
+      "reviewSource": "TripAdvisor"
+    }
+  ]
+  

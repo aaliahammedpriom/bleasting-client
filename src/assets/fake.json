@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "date": "Aug 10, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=1",
+      "title": "Excellent Service!",
+      "testimonial": "I was impressed with how quickly the service team responded. Everything was handled professionally.",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "platformName": "Google Reviews"
+    },
+    {
+      "id": 2,
+      "name": "Michael Lee",
+      "date": "Aug 9, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "title": "Very Satisfied",
+      "testimonial": "The staff was very helpful and friendly. I would definitely recommend this service to others.",
+      "rating": 4,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+      "platformName": "Facebook"
+    },
+    {
+      "id": 3,
+      "name": "Sophia Martinez",
+      "date": "Aug 7, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=3",
+      "title": "Smooth Experience",
+      "testimonial": "Booking was easy and the team handled everything perfectly. Great value for money.",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+      "platformName": "LinkedIn"
+    },
+    {
+      "id": 4,
+      "name": "James Smith",
+      "date": "Aug 6, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "title": "Quick and Reliable",
+      "testimonial": "Service was completed faster than expected. Highly reliable and trustworthy.",
+      "rating": 4,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/733/733558.png",
+      "platformName": "Twitter"
+    },
+    {
+      "id": 5,
+      "name": "Emily Brown",
+      "date": "Aug 5, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=5",
+      "title": "Great Support Team",
+      "testimonial": "The support team followed up with me and ensured everything went smoothly. Much appreciated!",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "platformName": "Trustpilot"
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "date": "Aug 4, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=6",
+      "title": "Good but Room for Improvement",
+      "testimonial": "Overall, a positive experience. However, communication could have been better.",
+      "rating": 3,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/145/145802.png",
+      "platformName": "Yelp"
+    },
+    {
+      "id": 7,
+      "name": "Olivia Garcia",
+      "date": "Aug 3, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=7",
+      "title": "Highly Recommend",
+      "testimonial": "I would highly recommend this service. Everything was handled professionally and quickly.",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/733/733579.png",
+      "platformName": "Instagram"
+    },
+    {
+      "id": 8,
+      "name": "Daniel Anderson",
+      "date": "Aug 2, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "title": "Decent Experience",
+      "testimonial": "The service was okay, nothing extraordinary but acceptable.",
+      "rating": 3,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/3536/3536394.png",
+      "platformName": "TripAdvisor"
+    },
+    {
+      "id": 9,
+      "name": "Sophia Clark",
+      "date": "Aug 1, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=9",
+      "title": "Amazing Results",
+      "testimonial": "The final results exceeded my expectations. Would definitely come back again!",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/2111/2111628.png",
+      "platformName": "YouTube"
+    },
+    {
+      "id": 10,
+      "name": "William Scott",
+      "date": "Jul 30, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=10",
+      "title": "Professional Team",
+      "testimonial": "The whole team was very professional and helpful throughout the process.",
+      "rating": 4,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/1384/1384053.png",
+      "platformName": "Reddit"
+    },
+    {
+      "id": 11,
+      "name": "Ava Harris",
+      "date": "Jul 29, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=11",
+      "title": "Worth Every Penny",
+      "testimonial": "The service was worth every penny. I’m extremely satisfied with the results.",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/3536/3536394.png",
+      "platformName": "TripAdvisor"
+    },
+    {
+      "id": 12,
+      "name": "Henry Martinez",
+      "date": "Jul 28, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=12",
+      "title": "Could Be Better",
+      "testimonial": "The service was okay, but I expected a bit more attention to detail.",
+      "rating": 3,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "platformName": "Trustpilot"
+    },
+    {
+      "id": 13,
+      "name": "Mia Lopez",
+      "date": "Jul 27, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=13",
+      "title": "Fantastic Work",
+      "testimonial": "The team delivered fantastic work on time. I am very impressed.",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/733/733558.png",
+      "platformName": "Twitter"
+    },
+    {
+      "id": 14,
+      "name": "Benjamin White",
+      "date": "Jul 25, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=14",
+      "title": "Friendly Staff",
+      "testimonial": "The staff was very friendly and approachable. They answered all my questions.",
+      "rating": 4,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+      "platformName": "Facebook"
+    },
+    {
+      "id": 15,
+      "name": "Isabella King",
+      "date": "Jul 24, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=15",
+      "title": "Great Follow-up",
+      "testimonial": "The team followed up after the service to ensure everything was good. Very caring approach!",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+      "platformName": "LinkedIn"
+    },
+    {
+      "id": 16,
+      "name": "Lucas Hall",
+      "date": "Jul 23, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=16",
+      "title": "Good Value",
+      "testimonial": "For the price, the service was really good. I would recommend it to others.",
+      "rating": 4,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/733/733579.png",
+      "platformName": "Instagram"
+    },
+    {
+      "id": 17,
+      "name": "Charlotte Young",
+      "date": "Jul 22, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=17",
+      "title": "Average Experience",
+      "testimonial": "It was an average experience. Nothing too bad, nothing too great either.",
+      "rating": 3,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/145/145802.png",
+      "platformName": "Yelp"
+    },
+    {
+      "id": 18,
+      "name": "Jack Turner",
+      "date": "Jul 21, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=18",
+      "title": "Super Fast",
+      "testimonial": "The service was completed super fast! I’m really impressed with the speed.",
+      "rating": 5,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "platformName": "Google Reviews"
+    },
+    {
+      "id": 19,
+      "name": "Amelia Wright",
+      "date": "Jul 20, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=19",
+      "title": "Reliable Service",
+      "testimonial": "The service is very reliable. I would definitely trust them again.",
+      "rating": 4,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/1384/1384053.png",
+      "platformName": "Reddit"
+    },
+    {
+      "id": 20,
+      "name": "Ethan Walker",
+      "date": "Jul 19, 2025",
+      "avatar": "https://i.pravatar.cc/100?img=20",
+      "title": "Good Experience",
+      "testimonial": "Overall, a good experience. The staff was polite and the service was timely.",
+      "rating": 4,
+      "platformLogo": "https://cdn-icons-png.flaticon.com/512/2111/2111628.png",
+      "platformName": "YouTube"
+    }
+  ]
+  
