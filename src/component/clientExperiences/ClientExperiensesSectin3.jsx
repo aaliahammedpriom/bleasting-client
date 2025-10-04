@@ -57,9 +57,9 @@ const ClientExperiensesSectin3 = () => {
                     {/* left section */}
                     <div className="md:w-1/2 grid grid-cols-2 gap-5">
                         {[
-                            "https://static.wixstatic.com/media/2c0265_16c3f90b0d6543889c65fe6629eed539~mv2.png/v1/fill/w_426,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_16c3f90b0d6543889c65fe6629eed539~mv2.png",
+                            "https://static.wixstatic.com/media/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png/v1/fill/w_411,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png",
                             "https://static.wixstatic.com/media/2c0265_527b9c84105f42aeb84aa821d99ce33a~mv2.png/v1/fill/w_320,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_527b9c84105f42aeb84aa821d99ce33a~mv2.png",
-                            "https://static.wixstatic.com/media/2c0265_51943e827ca24b0d9d00748997909f61~mv2.png/v1/fill/w_320,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_51943e827ca24b0d9d00748997909f61~mv2.png",
+                            "https://static.wixstatic.com/media/2c0265_527b9c84105f42aeb84aa821d99ce33a~mv2.png/v1/fill/w_320,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_527b9c84105f42aeb84aa821d99ce33a~mv2.png",
                             "https://static.wixstatic.com/media/2c0265_0e07bdc55759432c9c9f4e895ccb91e7~mv2.png/v1/fill/w_320,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_0e07bdc55759432c9c9f4e895ccb91e7~mv2.png"
                         ].map((src, i) => (
                             <div

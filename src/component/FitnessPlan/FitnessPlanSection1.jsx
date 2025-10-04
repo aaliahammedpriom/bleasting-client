@@ -96,7 +96,7 @@ const FitnessPlanSection1 = () => {
     return (
         <div className="max-md:hidden relative w-[95vw] h-[600px] m-auto bg-black flex items-center justify-center shadow-lg overflow-hidden group">
             {/* Video */}
-            <video
+            {/* <video
                 ref={videoRef}
                 className="w-full h-full object-cover"
                 src="https://video.wixstatic.com/video/6f7529_6303dda2be314e8a87216b848b76b9db/1080p/mp4/file.mp4"
@@ -104,7 +104,16 @@ const FitnessPlanSection1 = () => {
                 loop
                 muted={isMuted}
                 playsInline
-            />
+            /> */}
+            <iframe
+                className="w-full h-full"
+                src="https://www.youtube.com/embed/FSZACuKZQwo?autoplay=1&mute=1&si=NPf9mGmlKMSvfNS5"
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowFullScreen
+                referrerPolicy="strict-origin-when-cross-origin"
+            ></iframe>
 
             {/* Overlay */}
             <div className="absolute inset-0 bg-black/40 flex flex-col justify-between hidden group-hover:flex">

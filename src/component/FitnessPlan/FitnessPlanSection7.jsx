@@ -35,7 +35,7 @@ const FitnessPlanSection7 = () => {
                     </div>
                     {/* right side */}
                     <div className='md:w-1/2'>
-                        <img src="https://static.wixstatic.com/media/2c0265_95470fbce7fc438fb44b5bda04a78ab4~mv2.png/v1/fill/w_576,h_576,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c0265_95470fbce7fc438fb44b5bda04a78ab4~mv2.png" alt="" />
+                        <img src="https://static.wixstatic.com/media/2c0265_fa04bbe657bf4332b1b0369ef5d37328~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c0265_fa04bbe657bf4332b1b0369ef5d37328~mv2.png" alt="" />
                     </div>
 
 

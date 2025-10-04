@@ -11,7 +11,7 @@ const FitnessPlanSection4 = () => {
                 <div className='flex pt-10'>
                     {/* left side */}
                     <div>
-                        <img src="https://static.wixstatic.com/media/2c0265_730c2cf7240b4c189de9ab0e643e64a5~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c0265_730c2cf7240b4c189de9ab0e643e64a5~mv2.png" alt="" />
+                        <img src="https://static.wixstatic.com/media/2c0265_fa04bbe657bf4332b1b0369ef5d37328~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c0265_fa04bbe657bf4332b1b0369ef5d37328~mv2.png" alt="" />
                     </div>
                     {/* right side */}
                     <div>

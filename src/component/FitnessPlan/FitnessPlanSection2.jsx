@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useContext } from "react";
+import { AuthContext } from "../../provider/AuthProvider";
 
 const FitnessPlanSection2 = () => {
+  const { logo } = useContext(AuthContext)
   return (
     <div className="md:flex w-full items-stretch ">
       {/* left section */}
@@ -62,7 +64,7 @@ const FitnessPlanSection2 = () => {
       <div className="md:w-1/2 flex">
         <img
           className="w-full object-cover"
-          src="https://static.wixstatic.com/media/2c0265_c43ba5b52fa249c29642b9ec95e53987~mv2.jpg/v1/fill/w_676,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c0265_c43ba5b52fa249c29642b9ec95e53987~mv2.jpg"
+          src={logo}
           alt=""
         />
       </div>

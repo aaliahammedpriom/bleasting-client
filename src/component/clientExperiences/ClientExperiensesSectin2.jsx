@@ -44,7 +44,7 @@ const ClientExperiensesSectin2 = () => {
                     {/* right section */}
                     <div className="md:w-1/2  max-sm:pt-5">
                         <iframe
-                            src="https://www.instagram.com/primereviveretreat/embed"
+                            src={'/'}
                             className="w-full h-full max-sm:h-screen rounded-2xl shadow-xl flex-1"
                             frameBorder="0"
                             allowFullScreen

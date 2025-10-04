@@ -97,6 +97,15 @@ const Banner = () => {
         <div className="pb-8">
             <div className="max-md:hidden relative w-[95vw] h-[600px] m-auto bg-black flex items-center justify-center shadow-lg overflow-hidden group">
                 {/* Video */}
+                {/* <video
+                    ref={videoRef}
+                    className="w-full h-full object-cover"
+                    src="https://video.wixstatic.com/video/6f7529_6303dda2be314e8a87216b848b76b9db/1080p/mp4/file.mp4"
+                    autoPlay
+                    loop
+                    muted={isMuted}
+                    playsInline
+                /> */}
                 <iframe
                     className="w-full h-full"
                     src="https://www.youtube.com/embed/FSZACuKZQwo?autoplay=1&mute=1&si=NPf9mGmlKMSvfNS5"

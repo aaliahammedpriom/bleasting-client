@@ -39,7 +39,7 @@ const clientExperiencesSection1 = () => {
                     </div>
                     {/* right section */}
                     <div className='max-sm:pt-5'>
-                        <img src="https://static.wixstatic.com/media/2c0265_0636bfadd66f47839e120a439ebf8fbc~mv2.png/v1/fill/w_548,h_805,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_4237_HEIC.png" alt="" />
+                        <img src="https://static.wixstatic.com/media/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png/v1/fill/w_411,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png" alt="" />
                     </div>
                 </div>
                 {/* bottom section */}
@@ -50,7 +50,7 @@ const clientExperiencesSection1 = () => {
                             "https://static.wixstatic.com/media/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png/v1/fill/w_411,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png",
                             "https://static.wixstatic.com/media/2c0265_fa8279195b60411782cb8fdaab868263~mv2.png/v1/fill/w_320,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_fa8279195b60411782cb8fdaab868263~mv2.png",
                             "https://static.wixstatic.com/media/2c0265_cb42117540cb4e02a6d410c349472009~mv2.png/v1/fill/w_320,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_cb42117540cb4e02a6d410c349472009~mv2.png",
-                            "https://static.wixstatic.com/media/2c0265_7ca57aeb58fb45288bb5999bcf220824~mv2.png/v1/fill/w_320,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_7ca57aeb58fb45288bb5999bcf220824~mv2.png"
+                            "https://static.wixstatic.com/media/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png/v1/fill/w_411,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c0265_cc78703ad37e4dd5b1430fc8def6dfb0~mv2.png"
                         ].map((src, i) => (
                             <div
                                 key={i}

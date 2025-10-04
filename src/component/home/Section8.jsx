@@ -2,12 +2,12 @@ import React, { useContext } from 'react';
 import { AuthContext } from '../../provider/AuthProvider';
 
 const Section8 = () => {
-    const {logo}= useContext(AuthContext)
+    const {logo, logo2}= useContext(AuthContext)
     return (
         <div className='relative min-h-screen w-full'>
             {/* left section */}
             <div className='md:absolute z-10  min-h-screen md:w-1/2 '>
-                <img className='w-full max-h-screen' src="https://static.wixstatic.com/media/6f7529_faba3ba3af6f4384b62aea09894d6b62~mv2.jpg/v1/fill/w_716,h_986,al_c,q_85,enc_avif,quality_auto/6f7529_faba3ba3af6f4384b62aea09894d6b62~mv2.jpg" alt="" />
+                <img className='w-full max-h-screen' src={logo2} alt="" />
             </div>
             {/* right rection */}
             <div className='md:absolute z-10 left-[50%] bg-fixed min-h-screen md:w-1/2 '

@@ -41,7 +41,7 @@ const MealPlanSection1 = () => {
             {/* right */}
             <div className="md:w-1/2 md:px-10 bg-[#305b62] ">
                 <iframe
-                    src="https://www-prime-revive-com.filesusr.com/html/2c0265_b1a0f7d79ae5a7a5c02319ee969d7889.html"
+                    src={'/'}
                     className="w-full h-full max-sm:h-screen"
                 ></iframe>
             </div>
