@@ -13,11 +13,11 @@ const Section4 = () => {
       <div className=" bg-white/90">
         {/* Content */}
         <div>
-          <div className="bg-[#000000] h-[20px]"></div>
-          <RandomWave curves={100} width={1440} height={40} fill="#000000" />
+          <div className="bg-[#305b62] h-[20px]"></div>
+          <RandomWave curves={100} width={1440} height={40} fill="#305b62" />
 
           <div className="flex flex-col md:items-center justify-center gap-6">
-            <h4 className="text-xl md:text-[48px] text-center font-bold text-[#000000] tracking-tight">
+            <h4 className="text-xl md:text-[48px] text-center font-bold text-[#305b62] tracking-tight">
               OUR RETREAT EXPLAINED
             </h4>
 
@@ -50,7 +50,7 @@ const Section4 = () => {
             </div>
           </div>
 
-          <RandomWave curves={100} width={1440} height={40} rotation={true} fill="#000000" />
+          <RandomWave curves={100} width={1440} height={40} rotation={true} fill="#305b62" />
 
         </div>
       </div >

@@ -1,6 +1,6 @@
 import React from "react";
 
-const RandomWave = ({ curves = 100, width = 1440, height = 100, fill = "#000000", rotation = false }) => {
+const RandomWave = ({ curves = 100, width = 1440, height = 100, fill = "#305b62", rotation = false }) => {
     const generatePath = () => {
         let d = `M0,${height / 2} `;
         const step = width / curves;

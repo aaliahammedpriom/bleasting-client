@@ -4,7 +4,7 @@ import TermsAndConditionsSection1 from "../../component/TermsAndConditions/Terms
 
 const TermsAndConditions = () => {
     return (
-        <div className='bg-white text-[#000000]'>
+        <div className='bg-white text-[#305b62]'>
             <div
                 className="min-h-screen bg-cover bg-center bg-fixed bg-no-repeat"
                 style={{

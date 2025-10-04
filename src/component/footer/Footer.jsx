@@ -7,7 +7,7 @@ import { AuthContext } from '../../provider/AuthProvider';
 const Footer = () => {
     const {logo , logo2}= useContext(AuthContext)
     return (
-        <div className=" bg-[#000000] flex justify-around items-center py-4">
+        <div className=" bg-[#305b62] flex justify-around items-center py-4">
             {/* left part */}
             <div  className='max-sm:hidden w-1/3'></div>
             {/* center part */}
@@ -15,7 +15,7 @@ const Footer = () => {
                 <div>
                     <div className='flex gap-2 items-center '>
                         <div>
-                            <img src={logo2} className=' h-[50px]' alt="" />
+                            <img src={logo} className=' h-[50px]' alt="" />
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ const Footer = () => {
             </div>
             {/* right part */}
             <div className='max-sm:hidden w-1/3 flex justify-center'>
-                <button className=' flex btn btn-xl font-bold font-transparent text-3xl text-[#000000] rounded-full bg-[#e8d0a8] p-4 '><p><BsChatLeftDots /></p><p>Let's Chat !</p></button>
+                <button className=' flex btn btn-xl font-bold font-transparent text-3xl text-[#305b62] rounded-full bg-[#e8d0a8] p-4 '><p><BsChatLeftDots /></p><p>Let's Chat !</p></button>
             </div>
         </div>
     );

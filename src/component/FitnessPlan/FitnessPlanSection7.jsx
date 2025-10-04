@@ -27,10 +27,10 @@ const FitnessPlanSection7 = () => {
                     {/* left side */}
                     <div className='md:w-1/2 flex flex-col gap-5'>
                         <img src="https://static.wixstatic.com/media/2c0265_1f4324cd8f994776a2c1147cd18ef0da~mv2.png/v1/fill/w_412,h_109,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c0265_1f4324cd8f994776a2c1147cd18ef0da~mv2.png" alt="" />
-                        <div className='text-[#000000]'>
+                        <div className='text-[#305b62]'>
                             <p>"Following my stay with Bleasting, my biggest fear was that I would not be able to continue my weight lose journey, and keep up the disciplines I had learned on my stay. I found the 4 week complimentary online coaching really helpful when I returned home, as it enabled me to keep getting direction and support from my coaches. Since then i've felt comfortable to go it alone, and today my weight is 85kg! Thanks for everyone involved with Bleasting on helping me improve my life!"</p>
                         </div>
-                        <div className='flex justify-center'><button className='btn rounded-full text-white p-5 bg-[#000000]'>CHAT TO US</button></div>
+                        <div className='flex justify-center'><button className='btn rounded-full text-white p-5 bg-[#305b62]'>CHAT TO US</button></div>
 
                     </div>
                     {/* right side */}

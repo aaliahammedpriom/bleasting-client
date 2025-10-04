@@ -67,7 +67,7 @@ const Navbar = () => {
                     {/* Log is & Log out */}
                     <div className="dropdown dropdown-end">
                         <div tabIndex={0} role="button" className='flex items-center text-[20px] hover:text-[21px] hover:text-[#e8d0a8] '><p>A Ali Ahammed...  </p> <FaAngleDown /></div>
-                        <ul tabIndex={0} className="dropdown-content menu bg-[#000000] rounded-box z-1  p-5 shadow-sm font-semibold grid grid-cols-1 gap-5">
+                        <ul tabIndex={0} className="dropdown-content menu bg-[#305b62] rounded-box z-1  p-5 shadow-sm font-semibold grid grid-cols-1 gap-5">
                             <NavLink to={'account/my-wallet'}><a>My Wallet</a></NavLink>
                             <NavLink to={'account/my-orders'}><a>My Orders</a></NavLink>
                             <NavLink to={'account/my-addresses'}><a>My Addresses</a></NavLink>
@@ -124,7 +124,7 @@ const Navbar = () => {
                     <NavLink to={"/contact"}>CONTACT & FAQ</NavLink>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-[#000000] rounded-box z-10 w-52 p-2 shadow-2xl "
+                        className="menu menu-sm dropdown-content bg-[#305b62] rounded-box z-10 w-52 p-2 shadow-2xl "
                     >
                         <li className='text-[16px] font-semibold'>
                             <NavLink to={"/faq"}>FAQ</NavLink>

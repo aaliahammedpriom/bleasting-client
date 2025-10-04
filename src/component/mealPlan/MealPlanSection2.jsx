@@ -8,7 +8,7 @@ const MealPlanSection2 = () => {
 
 
             {/* left */}
-            <div className="md:w-1/2  bg-[#000000] ">
+            <div className="md:w-1/2  bg-[#305b62] ">
                 <img src="https://static.wixstatic.com/media/2c0265_57bbc20b82f84c45bbeaa37598f7ac16~mv2.png/v1/fill/w_800,h_937,al_c,q_90,enc_avif,quality_auto/2c0265_57bbc20b82f84c45bbeaa37598f7ac16~mv2.png" alt="" />
             </div>
 
@@ -24,7 +24,7 @@ const MealPlanSection2 = () => {
                         <img src={logo} alt="" />
                         
                     </div>
-                    <div className='flex flex-col gap-5 text-[#000000] px-5 md:px-32'>
+                    <div className='flex flex-col gap-5 text-[#305b62] px-5 md:px-32'>
                         <h1 className='text-4xl font-bold uppercase ' >Meal Plans designed just for you</h1>
                         <p>
                             At <span className='font-bold'>Bleasting</span>, we understand that you can't out-train a bad diet. The most important factor in achieving the body transformation of your dreams is having a well-designed meal plan.

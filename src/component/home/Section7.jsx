@@ -15,7 +15,7 @@ const Section7 = () => {
                 }}
             >
                 {/* Semi-transparent overlay */}
-                <div className="bg-[#000000]/90">
+                <div className="bg-[#305b62]/90">
                     {/* Content */}
                     <div className=" md:w-[80vw] m-auto p-5 md:p-10">
                         <div className=" pt-10 md:flex  items-center justify-between gap-10  ">
@@ -46,7 +46,7 @@ const Section7 = () => {
                                     contact a retreat expert to understand how we can build your transformation plan
                                 </p>
                                 {/* contact form */}
-                                <div className='bg-[#000000]'>
+                                <div className='bg-[#305b62]'>
                                     <ContactFormTable></ContactFormTable>
                                 </div>
 

@@ -42,7 +42,7 @@ const FitnessPlanSection3 = () => {
             <div className="">
                 <div className="relative lg:absolute z-1 w-[90vw] mx-[5vw] md:flex justify-between  gap-5">
                     {/* left content */}
-                    <div className="md:w-3/5 text-[#000000]   flex flex-col gap-5 pt-15">
+                    <div className="md:w-3/5 text-[#305b62]   flex flex-col gap-5 pt-15">
                         <div className="text-4xl font-bold uppercase">
                             Bleasting <br></br> methadology
                         </div>
@@ -62,7 +62,7 @@ const FitnessPlanSection3 = () => {
                             <h2 className='py-2'>
                                 Please follow the journey of one of our previous clients below
                             </h2>
-                            <button className='btn bg-[#000000] rounded-full text-white'>CHAT WITH US</button>
+                            <button className='btn bg-[#305b62] rounded-full text-white'>CHAT WITH US</button>
                         </div>
                     </div>
                     {/* right content */}
@@ -80,7 +80,7 @@ const FitnessPlanSection3 = () => {
                 >
                     <path
                         style={{ transform: "translate(0, 0px)", opacity: 1 }}
-                        fill="#000000"
+                        fill="#305b62"
                         d="M0,245L1440,441L2880,98L4320,294L5760,343L7200,147L8640,49L10080,49L11520,98L12960,98L14400,147L15840,441L17280,343L18720,441L20160,392L21600,0L23040,196L24480,392L25920,392L27360,196L28800,98L30240,147L31680,49L33120,147L34560,441L34560,490L33120,490L31680,490L30240,490L28800,490L27360,490L25920,490L24480,490L23040,490L21600,490L20160,490L18720,490L17280,490L15840,490L14400,490L12960,490L11520,490L10080,490L8640,490L7200,490L5760,490L4320,490L2880,490L1440,490L0,490Z"
                     ></path>
                 </svg>

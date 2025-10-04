@@ -21,7 +21,7 @@ const Section5 = () => {
           >
             <div className="absolute z-10 inset-0 min-h-[95vh] bg-white/80">
               {/* top section */}
-              <div className="md:w-[50vw] m-auto flex  gap-2 max-sm:justify-between max-sm:px-5 items-center md:text-[34px] font-extrabold text-[#000000] pt-10">
+              <div className="md:w-[50vw] m-auto flex  gap-2 max-sm:justify-between max-sm:px-5 items-center md:text-[34px] font-extrabold text-[#305b62] pt-10">
                 <img className="h-[60px] md:h-[80px]  md:w-[70px]" src={logo} alt="" />
                 <p>WHATS INNCLUDED</p>
                 <img className="h-[60px] md:h-[80px]  md:w-[70px]" src={logo} alt="" />
@@ -29,7 +29,7 @@ const Section5 = () => {
               {/* middle section */}
               <div className="md:w-[70vw] m-auto md:flex gap-5 text-white text-[14px]">
                 {/* left section */}
-                <div className="md:w-1/2  bg-[#000000] border rounded-2xl p-5">
+                <div className="md:w-1/2  bg-[#305b62] border rounded-2xl p-5">
                   <ol className="list-disc">
                     <li><b className="font-bold">Airport Transfers:</b> Let us collect and deliver you from the airport.
                     </li>
@@ -43,7 +43,7 @@ const Section5 = () => {
                   </ol>
                 </div>
                 {/* right section */}
-                <div className="md:w-1/2  bg-[#000000] border rounded-2xl p-5">
+                <div className="md:w-1/2  bg-[#305b62] border rounded-2xl p-5">
                   <ol className=" list-disc ">
                     <li><b className="font-bold">Body Composition Measurements:</b> Track your progress weekly with our fitness experts.</li>
                     <li><b className="font-bold">Personal Training:</b> Benefit from 2 private PT sessions a week.</li>
@@ -57,7 +57,7 @@ const Section5 = () => {
               </div>
               {/* bottom section */}
               <div className="flex justify-center pt-5">
-                <button className=' flex btn md:btn-xl font-bold font-transparent md:text-4xl bg-[#000000] rounded-full text-white md:p-8 '><p>CHAT TO US</p><p><BsChatLeftDots /></p></button>
+                <button className=' flex btn md:btn-xl font-bold font-transparent md:text-4xl bg-[#305b62] rounded-full text-white md:p-8 '><p>CHAT TO US</p><p><BsChatLeftDots /></p></button>
 
               </div>
             </div>
@@ -75,7 +75,7 @@ const Section5 = () => {
         <div className=" bg-white/80">
           <div className="p-5 pt-0">
             {/* top section */}
-            <div className="md:w-[50vw] m-auto flex  gap-2 max-sm:justify-between max-sm:px-5 items-center md:text-[34px] font-extrabold text-[#000000] pt-10">
+            <div className="md:w-[50vw] m-auto flex  gap-2 max-sm:justify-between max-sm:px-5 items-center md:text-[34px] font-extrabold text-[#305b62] pt-10">
               <img className="h-[60px] md:h-[80px]  md:w-[70px]" src="https://static.wixstatic.com/media/6f7529_9e10738c869a45dbb26634ca2a9abaad~mv2.png/v1/crop/x_517,y_180,w_554,h_754/fill/w_160,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/prime_revive_logo.png" alt="" />
               <p>WHATS INNCLUDED</p>
               <img className="h-[60px] md:h-[80px]  md:w-[70px]" src="https://static.wixstatic.com/media/6f7529_9e10738c869a45dbb26634ca2a9abaad~mv2.png/v1/crop/x_517,y_180,w_554,h_754/fill/w_160,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/prime_revive_logo.png" alt="" />
@@ -83,7 +83,7 @@ const Section5 = () => {
             {/* middle section */}
             <div className="md:w-[70vw] m-auto md:flex gap-5 text-white text-[14px] py-5">
               {/* left section */}
-              <div className="md:w-1/2  bg-[#000000] border rounded-2xl p-5">
+              <div className="md:w-1/2  bg-[#305b62] border rounded-2xl p-5">
                 <ol className="list-disc">
                   <li><b className="font-bold">Airport Transfers:</b> Let us collect and deliver you from the airport.
                   </li>
@@ -97,7 +97,7 @@ const Section5 = () => {
                 </ol>
               </div>
               {/* right section */}
-              <div className="md:w-1/2  bg-[#000000] border rounded-2xl p-5">
+              <div className="md:w-1/2  bg-[#305b62] border rounded-2xl p-5">
                 <ol className=" list-disc ">
                   <li><b className="font-bold">Body Composition Measurements:</b> Track your progress weekly with our fitness experts.</li>
                   <li><b className="font-bold">Personal Training:</b> Benefit from 2 private PT sessions a week.</li>
@@ -111,7 +111,7 @@ const Section5 = () => {
             </div>
             {/* bottom section */}
             <div className="flex justify-center">
-              <button className=' flex btn md:btn-xl font-bold font-transparent md:text-4xl bg-[#000000] rounded-full text-white md:p-8 '><p>CHAT TO US</p><p><BsChatLeftDots /></p></button>
+              <button className=' flex btn md:btn-xl font-bold font-transparent md:text-4xl bg-[#305b62] rounded-full text-white md:p-8 '><p>CHAT TO US</p><p><BsChatLeftDots /></p></button>
 
             </div>
           </div>

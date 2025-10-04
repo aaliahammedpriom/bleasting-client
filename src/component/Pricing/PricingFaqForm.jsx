@@ -3,7 +3,7 @@ import React from 'react';
 const PricingFaqForm = () => {
     return (
         <div className="w-full flex justify-center items-center max-sm:pt-5">
-            <form className="w-full max-w-lg bg-[#000000] p-2 md:p-8  text-white">
+            <form className="w-full max-w-lg bg-[#305b62] p-2 md:p-8  text-white">
                 <h2 className="text-2xl font-bold mb-6 ">
                     Receive Your Retreat Plan
                 </h2>
@@ -102,7 +102,7 @@ const PricingFaqForm = () => {
                 {/* Submit Button */}
                 <button
                     type="submit"
-                    className="w-full mt-6 py-2 bg-white text-[#000000] font-bold rounded-lg hover:bg-gray-200 transition"
+                    className="w-full mt-6 py-2 bg-white text-[#305b62] font-bold rounded-lg hover:bg-gray-200 transition"
                 >
                     Submit
                 </button>

@@ -12,13 +12,13 @@ const ContactSection2 = () => {
             {/* Gradient Top Overlay */}
             <div
                 className="absolute top-0 left-0 w-full h-30 z-10 rounded-t-[100%]"
-                style={{ background: 'linear-gradient(to bottom, #000000, transparent)' }}
+                style={{ background: 'linear-gradient(to bottom, #305b62, transparent)' }}
             ></div>
 
             {/* Gradient Bottom Overlay */}
             <div
                 className="absolute bottom-0 left-0 w-full h-30 z-10 rounded-b-[100%]"
-                style={{ background: 'linear-gradient(to top, #000000, transparent)' }}
+                style={{ background: 'linear-gradient(to top, #305b62, transparent)' }}
             ></div>
 
             <div className=" md:w-4/5 md:h-[500px] m-auto p-16 md:p-30" >

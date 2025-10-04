@@ -11,7 +11,7 @@ const FitnessPlanSection5 = () => {
                 <div className=' w-[70vw] m-auto flex flex-col gap-5  pt-10'>
 
                     {/* left side */}
-                    <h1 className='text-[#000000] text-2xl md:text-5xl text-center font-bold uppercase'>Nicks training plan</h1>
+                    <h1 className='text-[#305b62] text-2xl md:text-5xl text-center font-bold uppercase'>Nicks training plan</h1>
                     {/* right side */}
                     <img src="https://static.wixstatic.com/media/2c0265_d595c467aab94e70b9de41f2089edc91~mv2.png/v1/fill/w_788,h_422,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c0265_d595c467aab94e70b9de41f2089edc91~mv2.png" alt="" />
 

@@ -22,7 +22,7 @@ const AccommondationSection1 = () => {
                             />
                         </div>
 
-                        <div className="flex flex-col gap-5 justify-around text-[#000000] px-10 py-10">
+                        <div className="flex flex-col gap-5 justify-around text-[#305b62] px-10 py-10">
                             <h1 className="text-2xl md:text-4xl font-bold text-center md:px-32 uppercase">
                                 Bleasting ACCOMMODATION
                             </h1>

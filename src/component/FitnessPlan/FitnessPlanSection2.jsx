@@ -12,7 +12,7 @@ const FitnessPlanSection2 = () => {
         }}
       >
         <div className="max-md:bg-white/80">
-          <div className="flex flex-col justify-center h-full text-[#000000] font-bold py-10 px-5 md:px-20">
+          <div className="flex flex-col justify-center h-full text-[#305b62] font-bold py-10 px-5 md:px-20">
             <h1 className="text-3xl md:text-5xl font-extrabold text-center drop-shadow-lg uppercase">
               how we build our plans
             </h1>
@@ -38,7 +38,7 @@ const FitnessPlanSection2 = () => {
               </p>
 
               <div className="flex justify-center">
-                <button className="bg-[#000000] text-white md:text-2xl rounded-full px-5 py-2">
+                <button className="bg-[#305b62] text-white md:text-2xl rounded-full px-5 py-2">
                   VIEW SIMPLE CLIENT PLAN
                 </button>
               </div>
@@ -49,7 +49,7 @@ const FitnessPlanSection2 = () => {
               </h2>
 
               <div className="flex justify-center">
-                <button className="bg-[#000000] text-white md:text-2xl rounded-full px-5 py-2">
+                <button className="bg-[#305b62] text-white md:text-2xl rounded-full px-5 py-2">
                   CONTACT US
                 </button>
               </div>

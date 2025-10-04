@@ -27,12 +27,12 @@ const FitnessPlanSection6 = () => {
                 backgroundImage:
                     "url('https://static.wixstatic.com/media/11062b_13eb4134e847475e8dad19ee8b34212c~mv2_d_7062_4713_s_4_2.jpg')",
             }}>
-            <div className='bg-[#000000]/80'>
+            <div className='bg-[#305b62]/80'>
                 <div className='py-10'>
                     <h1 className='text-white text-2xl md:text-5xl text-center font-bold uppercase'>Nicks training plan</h1>
                     <div className='md:w-[80vw] m-auto md:flex gap-10 max-sm:px-5 pt-10'>
                         {/* left side */}
-                        <div className='md:w-2/5 text-[#000000] font-bold shadow-2xl rounded-2xl p-5 md:p-10 bg-white'>
+                        <div className='md:w-2/5 text-[#305b62] font-bold shadow-2xl rounded-2xl p-5 md:p-10 bg-white'>
                             <h2 className='text-2xl md:text-4xl text-center pb-10'>MEAL PLAN</h2>
                             {
                                 data.map((item, idx) => {

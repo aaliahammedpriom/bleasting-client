@@ -51,7 +51,7 @@ const ExcursionsSection1 = () => {
                         }}
                         className=" bg-fixed overflow-hidden"
                     >
-                        <div className={`${isEven ? "bg-white/80 text-[#000000]" : "bg-[#000000]/80 text-white"}`}>
+                        <div className={`${isEven ? "bg-white/80 text-[#305b62]" : "bg-[#305b62]/80 text-white"}`}>
                             <div className="md:w-[80vw] m-auto flex flex-col md:flex-row p-5 md:p-10 gap-6">
                                 {/* Left section */}
                                 <div className="w-full md:w-1/2 flex flex-col justify-center gap-5 font-semibold ">

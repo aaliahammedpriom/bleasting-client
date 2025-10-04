@@ -6,7 +6,7 @@ import ContactSection3 from '../../component/Contact/ContactSection3'
 
 const Contact = () => {
     return (
-       <div className=' bg-[#000000]'>
+       <div className=' bg-[#305b62]'>
         <ContactSection1></ContactSection1>
         <ContactSection2></ContactSection2>
         <ContactSection3></ContactSection3>

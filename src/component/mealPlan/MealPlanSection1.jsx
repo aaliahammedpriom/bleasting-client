@@ -16,7 +16,7 @@ const MealPlanSection1 = () => {
                         <div className='max-sm:hidden flex h-24 md:h-40 justify-center py-5 '>
                             <img src={logo} alt="" />
                         </div>
-                        <div className='flex flex-col gap-5 text-[#000000] px-5 md:px-32'>
+                        <div className='flex flex-col gap-5 text-[#305b62] px-5 md:px-32'>
                             <h1 className='text-4xl font-bold uppercase ' >Meal Plans designed just for you</h1>
                             <p>
                                 At <span className='font-bold'>Bleasting</span>, we understand that you can't out-train a bad diet. The most important factor in achieving the body transformation of your dreams is having a well-designed meal plan.
@@ -39,7 +39,7 @@ const MealPlanSection1 = () => {
             </div>
 
             {/* right */}
-            <div className="md:w-1/2 md:px-10 bg-[#000000] ">
+            <div className="md:w-1/2 md:px-10 bg-[#305b62] ">
                 <iframe
                     src="https://www-prime-revive-com.filesusr.com/html/2c0265_b1a0f7d79ae5a7a5c02319ee969d7889.html"
                     className="w-full h-full max-sm:h-screen"

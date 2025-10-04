@@ -10,7 +10,7 @@ const ClientExperiensesSectin2 = () => {
             <div className='bg-white/90'>
 
                 {/* top section */}
-                <div className='md:w-[80vw] m-auto md:flex gap-24 py-10 items-stretch bg-fixed text-[#000000]'>
+                <div className='md:w-[80vw] m-auto md:flex gap-24 py-10 items-stretch bg-fixed text-[#305b62]'>
                     {/* left section */}
                     <div className='md:w-1/2 p-5 bg-white/60 rounded-2xl card shadow-2xl flex flex-col gap-5'>
                         <h1 className='text-4xl font-bold uppercase'>Meet Brain</h1>
@@ -70,7 +70,7 @@ const ClientExperiensesSectin2 = () => {
                     </div>
                 </div>
 
-                <RandomWave curves={100} width={1440} height={30} rotation={true} fill="#000000" />
+                <RandomWave curves={100} width={1440} height={30} rotation={true} fill="#305b62" />
 
             </div>
         </div>

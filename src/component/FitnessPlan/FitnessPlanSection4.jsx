@@ -7,7 +7,7 @@ const FitnessPlanSection4 = () => {
                 backgroundImage:
                     "url('https://static.wixstatic.com/media/11062b_13eb4134e847475e8dad19ee8b34212c~mv2_d_7062_4713_s_4_2.jpg')",
             }}>
-            <div className='bg-[#000000]/80'>
+            <div className='bg-[#305b62]/80'>
                 <div className='flex pt-10'>
                     {/* left side */}
                     <div>

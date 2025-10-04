@@ -16,14 +16,14 @@ const Section9 = () => {
                         data.map((item, idx) =>
                             <div key={idx} className="max-w-sm  bg-white shadow-md rounded-2xl p-6 text-center">
                                 {/* Profile Image */}
-                                <div className="w-36 h-36 mx-auto rounded-full overflow-hidden border-4 border-[#000000] shadow-md">
+                                <div className="w-36 h-36 mx-auto rounded-full overflow-hidden border-4 border-[#305b62] shadow-md">
                                     <img src={item.image} alt={item.name} className="w-full h-full object-cover" />
                                 </div>
                                 <div className='w-full m-auto flex items-center justify-around'>
-                                    <p className='text-[#000000] text-5xl'><PiQuotesFill /></p>
+                                    <p className='text-[#305b62] text-5xl'><PiQuotesFill /></p>
                                 </div>
                                 {/* Quote Section */}
-                                <div className="mt-4 text-[#000000]  italic">
+                                <div className="mt-4 text-[#305b62]  italic">
 
                                     <p>
                                         <span className="font-bold">{item.weightStart}kg</span> when I started and with the help and support{" "}
@@ -48,7 +48,7 @@ const Section9 = () => {
                                 </div>
 
                                 {/* Button */}
-                                <button className="mt-5 px-6 py-2 bg-[#000000] text-white rounded-full shadow hover:bg-[#3e3e3e] transition">
+                                <button className="mt-5 px-6 py-2 bg-[#305b62] text-white rounded-full shadow hover:bg-[#3e3e3e] transition">
                                     READ MORE
                                 </button>
                             </div>

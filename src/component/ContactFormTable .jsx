@@ -21,7 +21,7 @@ const ContactFormGrid = () => {
   };
 
   return (
-    <div className="w-full flex justify-center bg-[#000000] ">
+    <div className="w-full flex justify-center bg-[#305b62] ">
       <form
         onSubmit={handleSubmit}
         className="w-full max-w-md  p-2 md:p-8  text-white"
@@ -87,7 +87,7 @@ const ContactFormGrid = () => {
         {/* Submit Button */}
         <button
           type="submit"
-          className="w-full mt-6 py-2 bg-white text-[#000000] font-bold rounded-lg hover:bg-gray-200 transition"
+          className="w-full mt-6 py-2 bg-white text-[#305b62] font-bold rounded-lg hover:bg-gray-200 transition"
         >
           Submit
         </button>

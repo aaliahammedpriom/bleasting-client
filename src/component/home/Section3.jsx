@@ -20,7 +20,7 @@ const Section3 = () => {
 
             {/* Content */}
             <div className="max-sm:m-5 relative z-10 flex flex-col items-center justify-center gap-6">
-                <h4 className="text-xl md:text-[48px] text-center font-bold text-[#000000] tracking-tight">
+                <h4 className="text-xl md:text-[48px] text-center font-bold text-[#305b62] tracking-tight">
                     BEING YOUR TRANSFORMATION
                 </h4>
 
@@ -30,25 +30,25 @@ const Section3 = () => {
                         <img
                             src="https://static.wixstatic.com/media/6f7529_c573ce9c27974011804c84d0e78a2bfe~mv2.jpg"
                             alt="Logo 1"
-                            className="w-44 h-44 object-cover rounded-full border-8  border-[#000000] "
+                            className="w-44 h-44 object-cover rounded-full border-8  border-[#305b62] "
                         />
-                        <div className="btn md:btn-xl rounded-full bg-[#000000] text-white ">PRICING</div>
+                        <div className="btn md:btn-xl rounded-full bg-[#305b62] text-white ">PRICING</div>
                     </div>
                     <div className="flex flex-col gap-4">
                         <img
                             src={logo}
                             alt="Logo 2"
-                            className="w-44 h-44 object-cover rounded-full border-8  border-[#000000] "
+                            className="w-44 h-44 object-cover rounded-full border-8  border-[#305b62] "
                         />
-                        <div className="btn md:btn-xl rounded-full bg-[#000000] text-white ">SAMPLE PLAN</div>
+                        <div className="btn md:btn-xl rounded-full bg-[#305b62] text-white ">SAMPLE PLAN</div>
                     </div>
                     <div className="flex flex-col gap-4">
                         <img
                             src="https://static.wixstatic.com/media/453a0f_57934ae89681465486e9b388e9c8c01d~mv2.jpg"
                             alt="Logo 3"
-                            className="w-44 h-44 object-cover rounded-full border-8  border-[#000000] "
+                            className="w-44 h-44 object-cover rounded-full border-8  border-[#305b62] "
                         />
-                        <div className="btn md:btn-xl rounded-full bg-[#000000] text-white ">FITNESS PLAN</div>
+                        <div className="btn md:btn-xl rounded-full bg-[#305b62] text-white ">FITNESS PLAN</div>
                     </div>
 
                 </div>

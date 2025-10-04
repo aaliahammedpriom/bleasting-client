@@ -16,7 +16,7 @@ const FitnessPlanSection8 = () => {
                 }}
             >
                 {/* Semi-transparent overlay */}
-                <div className="bg-[#000000]/90">
+                <div className="bg-[#305b62]/90">
                     {/* Content */}
                     <div className=" md:w-[80vw] m-auto  md:p-10">
                         <div className=" md:pt-10 flex max-sm:flex-wrap items-center justify-between gap-10  ">

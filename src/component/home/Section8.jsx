@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { useContext } from 'react';
+import { AuthContext } from '../../provider/AuthProvider';
 
 const Section8 = () => {
+    const {logo}= useContext(AuthContext)
     return (
         <div className='relative min-h-screen w-full'>
             {/* left section */}
@@ -10,14 +12,13 @@ const Section8 = () => {
             {/* right rection */}
             <div className='md:absolute z-10 left-[50%] bg-fixed min-h-screen md:w-1/2 '
                 style={{
-                    backgroundImage:
-                        "url('https://static.wixstatic.com/media/6f7529_c10c8b99c52b4abab5af72a1979b5fc4~mv2.jpg/v1/fill/w_533,h_734,al_c,q_85,enc_avif,quality_auto/6f7529_c10c8b99c52b4abab5af72a1979b5fc4~mv2.jpg')",
+                    backgroundImage:`url(${logo})`,
                 }}>
                 <div>
                     <div className="absolute inset-0 md:bg-white/80 "></div>
 
                     {/* Text Content */}
-                    <div className="relative z-10 overflow-y-auto max-h-screen  text-[#000000] max-sm:bg-white/80 md:p-16 px-10">
+                    <div className="relative z-10 overflow-y-auto max-h-screen  text-[#305b62] max-sm:bg-white/80 md:p-16 px-10">
                         <h1 className="text-xl md:text-4xl font-extrabold  drop-shadow-lg uppercase">
                             What makes Bleasting in PHUKET unique?
                         </h1>
@@ -61,7 +62,7 @@ const Section8 = () => {
                                 coaching package to help you stay on track and continue your wellness
                                 journey from wherever life takes you.
                             </p>
-                            <button className='btn bg-[#000000] text-white text-2xl w-full rounded-full md:py-8 md:mt-10 mt-5'>FITNESS PLANS</button>
+                            <button className='btn bg-[#305b62] text-white text-2xl w-full rounded-full md:py-8 md:mt-10 mt-5'>FITNESS PLANS</button>
                         </div>
 
                     </div>

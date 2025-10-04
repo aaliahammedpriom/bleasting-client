@@ -3,7 +3,7 @@ import RandomWave from '../home/RandomWave';
 
 const clientExperiencesSection1 = () => {
     return (
-        <div className=' bg-fixed text-[#000000]'
+        <div className=' bg-fixed text-[#305b62]'
             style={{
                 backgroundImage:
                     "url('https://static.wixstatic.com/media/6f7529_10f37979c7ab4e49bf0793b05413af67~mv2.jpeg/v1/fill/w_1202,h_549,al_c,q_85,enc_avif,quality_auto/6f7529_10f37979c7ab4e49bf0793b05413af67~mv2.jpeg')",
@@ -84,7 +84,7 @@ const clientExperiencesSection1 = () => {
                         ))}
                     </div>
                 </div>
-                <RandomWave curves={100} width={1440} height={30} rotation={true} fill="#000000" />
+                <RandomWave curves={100} width={1440} height={30} rotation={true} fill="#305b62" />
 
             </div>
         </div>

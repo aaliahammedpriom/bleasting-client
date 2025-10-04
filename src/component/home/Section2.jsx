@@ -17,7 +17,7 @@ const Section2 = () => {
                 bgImageAlt="fitness retreat"
                 strength={200}
             >
-               <RandomWave curves={100} width={1440} height={20}  fill="#000000" />
+               <RandomWave curves={100} width={1440} height={20}  fill="#305b62" />
 
 
                 {/* Logo / Header */}
@@ -33,14 +33,14 @@ const Section2 = () => {
                     <div className="md:w-[50%] bg-transparent shadow-sm p-8 flex flex-col justify-center font-semibold ">
 
                         {/* Intro Text */}
-                        <p className="text-[#000000] mb-4">
+                        <p className="text-[#305b62] mb-4">
                             Welcome to Bleasting Body Transformation Retreat in Phuket, Thailand.
                             We specialise in building bespoke body transformation plans, tailored
                             specifically to your unique goals and needs.
                         </p>
 
                         {/* Button */}
-                        <button className="btn bg-[#000000] text-white px-6 py-3 rounded-full font-semibold  ">
+                        <button className="btn bg-[#305b62] text-white px-6 py-3 rounded-full font-semibold  ">
                             View Sample Client Plan
                         </button>
 
@@ -62,7 +62,7 @@ const Section2 = () => {
                             CONTACT ONE OF OUR RETREAT EXPERTS
                         </p>
 
-                        <button className="mt-4 btn bg-[#000000] text-white px-5 py-2 rounded-full flex items-center justify-center gap-2 ">
+                        <button className="mt-4 btn bg-[#305b62] text-white px-5 py-2 rounded-full flex items-center justify-center gap-2 ">
                             💬 Chat To Us
                         </button>
                     </div>
@@ -100,7 +100,7 @@ const Section2 = () => {
                                     </div>
 
                                     {/* Review text */}
-                                    <p className="text-xs text-[[#000000]] line-clamp-3">{item.testimonial}</p>
+                                    <p className="text-xs text-[[#305b62]] line-clamp-3">{item.testimonial}</p>
                                     <button className="text-xs text-gray-500 mt-1 hover:underline">
                                         Read more
                                     </button>
